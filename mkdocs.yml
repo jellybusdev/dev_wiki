@@ -2,5 +2,4 @@ site_name: JellyBus Dev Wiki
 nav:
   - Home: index.md
   - Convention: convention/index.md
-    - Swift: convention/swift.md
 theme: material
