@@ -1,2 +1,2 @@
-# dev_wiki
+# Documentation
 JellyBus Development Wiki
